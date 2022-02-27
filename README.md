@@ -1,21 +1,21 @@
-# apiTest
+# ApiBuilder
 
 #### 介绍
-使用NodeJS，Express快速生成api接口，操作Mysql数据库实现增删改查。
+使用NodeJS，Express快速生成api接口：可操作Mysql数据库实现增删改查，也可自定义Json数据返回前端测试用。
 
 #### 软件架构
-软件架构说明
+此API生成器基于NodeJS环境，使用express作为Web应用开发框架，引入mysql依赖对数据库进行操作。
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  配置好NodeJs环境，编辑主运行文件中的Mysql连接信息
+2.  主文件目录下cmd运行：node ApiBuilder.js
+3.  运行提示缺少哪个依赖包，就npm install哪个包
 
 #### 使用说明
 
-1.  xxxx
+1.  ApiBuilder.js 作了修改后，需要重新运行使其生效。
 2.  xxxx
 3.  xxxx
 
