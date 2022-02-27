@@ -1,0 +1,654 @@
+{
+    "data": [
+        {
+            "parentId": "108",
+            "deviceId": "1001",
+            "deviceName": "camera001",
+            "position": [
+                -16.280336134717388,
+                0.009999999999999204,
+                -15.736030839183396
+            ],
+            "angles": [
+                -84.15605888595644,
+                -7.951386703658792e-16,
+                9.648945282210532
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": true,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1002",
+            "deviceName": "camera002",
+            "position": [
+                5.570587914309366,
+                0.009999999999999024,
+                -14.922893046998475
+            ],
+            "angles": [
+                -43.85643782654146,
+                0,
+                0
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1003",
+            "deviceName": "camera003",
+            "position": [
+                5.570587914309366,
+                5.009999999999999,
+                -14.922893046998475
+            ],
+            "angles": [
+                -43.85643782654146,
+                0,
+                0
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1001",
+            "deviceName": "camera001",
+            "position": [
+                -16.280336134717388,
+                5.009999999999999,
+                -15.736030839183396
+            ],
+            "angles": [
+                -84.15605888595644,
+                -7.951386703658792e-16,
+                9.648945282210532
+            ],
+            "deviceType": "摄像头321",
+            "alwaysOnTop": true,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "109",
+            "deviceId": "312123",
+            "deviceName": "32131",
+            "position": [
+                -7.9471742180873814,
+                3.0100000000000002,
+                -26.500045790586825
+            ],
+            "angles": [
+                -1.6999653832958226,
+                0,
+                0
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 15,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "啦啦啦",
+            "deviceName": "输入",
+            "position": [
+                -7.346185193181624,
+                11.306229792253784,
+                -26.94671256581368
+            ],
+            "angles": [
+                7.9236051780394785,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 15,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "deviceId": 101,
+            "name": "这是新数据哦"
+        },
+        {
+            "parentId": "109",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                4.712717004745771,
+                3.8125802558648636,
+                -21.149836912271574
+            ],
+            "angles": [
+                -3.6991094444384447,
+                -34.69792060991463,
+                -2.107696215681165
+            ],
+            "alwaysOnTop": false,
+            "scale": 15,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1002",
+            "deviceName": "camera002",
+            "position": [
+                5.570587914309366,
+                0.009999999999999024,
+                -14.922893046998475
+            ],
+            "angles": [
+                -43.85643782654146,
+                0,
+                0
+            ],
+            "deviceType": "半球监控1",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1002",
+            "deviceName": "camera002",
+            "position": [
+                5.570587914309366,
+                0.009999999999999024,
+                -14.922893046998475
+            ],
+            "angles": [
+                -43.85643782654146,
+                0,
+                0
+            ],
+            "deviceType": "半球监控1",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1002",
+            "deviceName": "camera002",
+            "position": [
+                5.570587914309366,
+                0.009999999999999024,
+                -14.922893046998475
+            ],
+            "angles": [
+                -43.85643782654146,
+                0,
+                0
+            ],
+            "deviceType": "半球监控1",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "108",
+            "deviceId": "1002",
+            "deviceName": "camera002",
+            "position": [
+                5.570587914309366,
+                0.009999999999999024,
+                -14.922893046998475
+            ],
+            "angles": [
+                -43.85643782654146,
+                0,
+                0
+            ],
+            "deviceType": "半球监控1",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                -16.02824026714897,
+                7.362618089887936,
+                -14.44162737844232
+            ],
+            "angles": [
+                -180,
+                -0.11105566074058978,
+                -180
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                -6.851695080865024,
+                7.362618089887936,
+                -14.44162737844232
+            ],
+            "angles": [
+                -180,
+                -0.11105566074058978,
+                -180
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                2.7033229740851445,
+                7.362618089887936,
+                -14.44162737844232
+            ],
+            "angles": [
+                -180,
+                -0.11105566074058978,
+                -180
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                13.399826213013963,
+                7.362618089887936,
+                -14.44162737844232
+            ],
+            "angles": [
+                -180,
+                -0.11105566074058978,
+                -180
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                23.147339120294433,
+                7.362618089887936,
+                -14.44162737844232
+            ],
+            "angles": [
+                -180,
+                -0.11105566074058978,
+                -180
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "输入",
+            "position": [
+                28.45079471798858,
+                7.362618089887936,
+                -14.44162737844232
+            ],
+            "angles": [
+                -180,
+                -0.11105566074058978,
+                -180
+            ],
+            "deviceType": "半球监控",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/62A8A75C75044E6AB3D8463FA0CB67AF/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                28.25371402907255,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                20.220854509821066,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                13.109676245401541,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                6.800861071142462,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                -1.145231938987362,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                -9.208638771415968,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                -16.74442589562339,
+                8.095471748652509,
+                -27.845385183989993
+            ],
+            "angles": [
+                24.205120869631134,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                -16.74442589562339,
+                6.6763943353555,
+                -14.715871576336628
+            ],
+            "angles": [
+                155.79189670631777,
+                -0.8718875389066586,
+                179.60803122124264
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                -6.425372301868611,
+                6.6763943353555,
+                -14.715871576336628
+            ],
+            "angles": [
+                155.79189670631777,
+                -0.8718875389066586,
+                179.60803122124264
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                2.5792851694742285,
+                6.6763943353555,
+                -14.715871576336628
+            ],
+            "angles": [
+                155.79189670631777,
+                -0.8718875389066586,
+                179.60803122124264
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                10.485824875923242,
+                6.6763943353555,
+                -14.715871576336628
+            ],
+            "angles": [
+                155.79189670631777,
+                -0.8718875389066586,
+                179.60803122124264
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                18.851898454161148,
+                6.6763943353555,
+                -14.715871576336628
+            ],
+            "angles": [
+                155.79189670631777,
+                -0.8718875389066586,
+                179.60803122124264
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "110",
+            "deviceId": "输入",
+            "deviceName": "枪式摄像头",
+            "position": [
+                26.07041107803392,
+                6.6763943353555,
+                -14.715871576336628
+            ],
+            "angles": [
+                155.79189670631777,
+                -0.8718875389066586,
+                179.60803122124264
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "109",
+            "deviceId": "109_摄像头01",
+            "deviceName": "摄像头01",
+            "position": [
+                15.815498175049806,
+                3.0100000000000002,
+                -21.23366012536001
+            ],
+            "angles": [
+                0,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "109",
+            "deviceId": "109_摄像头01",
+            "deviceName": "摄像头02",
+            "position": [
+                19.861900883461352,
+                3.0100000000000002,
+                -21.23366012536001
+            ],
+            "angles": [
+                0,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 5,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "109",
+            "deviceId": "109_camera001",
+            "deviceName": "camera001",
+            "position": [
+                -8.460334566790932,
+                3.0099999999999962,
+                -19.80416935437465
+            ],
+            "angles": [
+                0,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 15,
+            "url": "/api/models/20140813240003/0/gltf/"
+        },
+        {
+            "parentId": "109",
+            "deviceId": "109_camera001",
+            "deviceName": "camera001",
+            "position": [
+                16.04733330099099,
+                7.95771103561782,
+                -19.80416935437465
+            ],
+            "angles": [
+                0,
+                0,
+                0
+            ],
+            "deviceType": "摄像头",
+            "alwaysOnTop": false,
+            "scale": 15,
+            "url": "/api/models/20140813240003/0/gltf/"
+        }
+    ],
+    "total": 35
+}
