@@ -51,7 +51,8 @@ setInterval(function () {
 let requestCount = 0;// console.log(typeof 123); // number
 function requestInit(req, res) {//给请求配置跨域
     requestCount++;
-    console.log(new Date().toLocaleString() + ` 第${requestCount}次发来请求,IP为${req.ip}`);
+    let IP=req.headers['x-forwarded-for']!=null?req.headers['x-forwarded-for']:req.ip;
+    console.log(new Date().toLocaleString() + ` 第${requestCount}次发来请求,IP为${IP}`);
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'POST, GET, PUT, OPTIONS, DELETE');
 }
