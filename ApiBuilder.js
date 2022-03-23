@@ -45,7 +45,7 @@ const connect = mysql.createConnection({
 let reconnectCount=0;
 setInterval(function () {
     connect.query('SELECT 1');
-	console.log(`为防止Mysql断连，每隔7.5小时进行重连，已重连${++reconnectCount}次`);
+	console.log(new Date().toLocaleString() + ` 为防止Mysql断连，每隔7.5小时进行重连，已重连${++reconnectCount}次`);
 }, 7.5*60*60*1000);
 
 let requestCount = 0;// console.log(typeof 123); // number
